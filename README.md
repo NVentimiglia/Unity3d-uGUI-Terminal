@@ -12,29 +12,11 @@ The goal of this library to provide a UI for testing low level libraries and deb
  - A text input with optional input handling (text processors)
  - Hide and close with the ` key
 
+![alt tag](https://github.com/NVentimiglia/Unity3d-uGUI-Terminal/blob/master/Terminal.gif)
+
 ## Setup
 
 Drop the Terminal Prefab into your scene.
-
-## More
-
-Part of the Unity3d Foundation toolkit. A collection of utilities for making high quality data driven games. http://unity3dFoundation.com
-
-- **Console** : A in game terminal for debugging !
-
-- **Tasks** : An async task library for doing background work or extending coroutines with return results.
-
-- **Localization** : Supports in editor translation, multiple files and automatic translation of scripts using the [Localized] annotation.
-
-- **Messenger** : Listener pattern. A message broker for relaying events in a loose way. Supports auto subscription via the [Subscribe] annotation.
-
-- **Injector** : Service Injector for resolving services and other components. Supports auto injection using the [Inject] annotation
-
-- **DataBinding** : For MVVM / MVC style databinding. Supports the new uGUI ui library.
-
-- **Cloud** : Parse-like storage and account services using a ASP.NET MVC back end. Need to authenticate your users? Reset passwords with branded emails? Save high scores or character data in a database? Maybe write your own authoritative back end? This is it.
-
-- **Lobby** : The ultimate example scene. Everything you need to deploy for a game, minus the actual game play.
 
 ## Example Usage
 
@@ -73,3 +55,23 @@ Part of the Unity3d Foundation toolkit. A collection of utilities for making hig
 	   // Run When inputted
 	}
 ```
+
+## More
+
+Part of the Unity3d Foundation toolkit. A collection of utilities for making high quality data driven games. http://unity3dFoundation.com
+
+- **Console** : A in game terminal for debugging !
+
+- **Tasks** : An async task library for doing background work or extending coroutines with return results.
+
+- **Localization** : Supports in editor translation, multiple files and automatic translation of scripts using the [Localized] annotation.
+
+- **Messenger** : Listener pattern. A message broker for relaying events in a loose way. Supports auto subscription via the [Subscribe] annotation.
+
+- **Injector** : Service Injector for resolving services and other components. Supports auto injection using the [Inject] annotation
+
+- **DataBinding** : For MVVM / MVC style databinding. Supports the new uGUI ui library.
+
+- **Cloud** : Parse-like storage and account services using a ASP.NET MVC back end. Need to authenticate your users? Reset passwords with branded emails? Save high scores or character data in a database? Maybe write your own authoritative back end? This is it.
+
+- **Lobby** : The ultimate example scene. Everything you need to deploy for a game, minus the actual game play.
