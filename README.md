@@ -70,4 +70,4 @@ Part of the Unity3d Foundation toolkit. A collection of utilities for making hig
 - **Lobby** : The ultimate example scene. Everything you need to deploy for a game, minus the actual game play.
 
 ## Donations
-[I accept donations via papal. Your money is an objective measure of my self esteme.](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=nick@simplesys.us)
+[I accept donations via papal. Your money is an objective measure of my self esteem.](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=nick@simplesys.us)
