@@ -20,7 +20,7 @@ Drop the Terminal Prefab into your scene.
 
 ## Example Usage
 
-```c#
+````
 
 	// Write
 	Terminal.Log("blag blah");
@@ -54,7 +54,7 @@ Drop the Terminal Prefab into your scene.
 	{
 	   // Run When inputted
 	}
-```
+````
 
 ## More
 
